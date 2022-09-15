@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.List {
+  list-style-type: none;
+}
+button {
+  border: 2px solid #c4c4c4;
+  height: 50px;
+  width: 150px;
+  margin: 30px;
+  background-color: #382f5a;
+  border-radius: 10px;
+  font-size: 20px;
+  color: #c4c4c4;
+  font-weight: bold;
+}
